@@ -17,7 +17,7 @@ body{
 }
 
 .hero{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)) ,url(morgan-marinoni-bSvhQWneEKs-unsplash.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.2)) ,url(/img/morgan-marinoni-bSvhQWneEKs-unsplash.jpg);
     background-size: cover;
     min-height: 500px;
     height: 100vh;
